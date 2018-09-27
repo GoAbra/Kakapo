@@ -8,6 +8,12 @@ DEPENDENCIES:
   - Quick (~> 1.0)
   - SwiftyJSON (~> 3.0)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+    - SwiftyJSON
+
 SPEC CHECKSUMS:
   Nimble: 415e3aa3267e7bc2c96b05fa814ddea7bb686a29
   Quick: 8024e4a47e6cc03a9d5245ef0948264fc6d27cff
@@ -15,4 +21,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 32e8a436ab1475e57b630f99c14d07ef2557bec1
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.5.3

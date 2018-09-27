@@ -1,5 +1,5 @@
 framework module SwiftyJSON {
-  umbrella header "SwiftyJSON-OSX-umbrella.h"
+  umbrella header "SwiftyJSON-macOS-umbrella.h"
 
   export *
   module * { export * }
